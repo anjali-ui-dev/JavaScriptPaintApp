@@ -1,0 +1,15 @@
+#canvas {
+	width : 900px;
+	height : 400px ;
+	margin: 0 auto 0 auto;
+}
+#reset {
+	width: 60px;
+	height: 30px;
+	margin: 0 auto 50px auto;
+}
+#paintArea {
+	border: 2px solid black;
+	margin-top: 3px;
+	margin-left: 3px;
+}
